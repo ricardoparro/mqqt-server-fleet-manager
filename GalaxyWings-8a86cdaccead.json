@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "galaxy-wings-1506591701684",
+  "private_key_id": "8a86cdaccead1cdd96a222dacf608862df2d93a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDK5sbSFRNWZjXv\nNh0onFMTNe3ItfctE3POAXRDOheYgzeE1pWGjFdAiW+NCmIr24sUMrjw2m+tzT9r\n8iheLX2lbJFp3d3q4LdPabkG0RnhLfYgv5BszeCZREjW1y+JyulPL0tyEnF7TFga\nQnHn0NFz4zpfLtOOUeezGYYTdxvSx+5SZeERX80zqp1n/UENx/68XjXLncrUexfa\nn9tfZLITyFl0EWT375iXfWTs1EEmI3NelSsyi6wBPa4nXnXEU5nGU2VxzSydMbnw\nC087qCsmSKXj8DkZPNgTuLzwUSXHSAcDndNYR5HRr6j32NGLU5jrH/F0CdCsfCnb\n1ME9l8ynAgMBAAECggEAD3fSGWrs5fh1zSOMIS/wWgsRnRcDiHFZXI+aJukzVPel\nOwscLBKKhkt+mxB7FR/atZ1Q9wpCsEvGNXr+XoD2Tq78/kahPTTeFKpD0O648S85\nT8bQLP3xojg6m1JH9/0QQJlOQEctVTp9OZyY0BTdxYlsRkcCGXFKCh/R1lhitnSl\nCLN/1XJ6mORiyBZPNQs8sqCv/f5M7SKyiZ5eXYzgAC2qDoCwXGbEY/x4952vyX0+\nwp9h2R1bnwrVUYpvw1pG1vjASMyQb1hM9INlcxqyIvf5GitZWhLSuo+ntOzE4u6+\nZx5FK8XRp84dvRFp69HM3poD87h3QBQvfpW0xkXVaQKBgQDmIH3rY8VXDxgtGp/8\nMakd1hCM0T59b9peQ2H2uEtOFlm3u+QaJDvkkol+pFojWcqF4z+bwgjhA5+mHdw1\n1JfTVNFdzvzZyAN3e6uq2xtPUXZyXhCwoKq2loVeG0STE12mh3M0JTIkx7DiQ2Ly\ngGgDyoo3sVn8izySJGUNro4QyQKBgQDhtq603ylOSQnGTNjnIAYpBp2Ygyy5h0Au\naKCbQbFfSlEY6RkNHPezKTHIKr3nA7FUCRJlSWv/Fs3CZp+EdnTkkWH1Pz8bpOa2\n1BrQBBKswnaZT58vGuetJ/y1w5ymh9WkV2kX5meVULeV49uFop6wNCfXGZfF9b2y\ngmblPH6Z7wKBgQC15O7ClMzRgFvSot3bwAD1VVMliuqCyVtn8IjJM2hKY34srPWh\n+AvjIjRNhmi80mcypqmLWrYb7PpOmgGKBuyunLcUF9xh4ydiVL0ewir26ePeiB1X\nDteAlL774D+2pLL8Qsm7aL8WtURJw4u9M+ODQ582YBdJd2C7/splIxiliQKBgQDF\n3Wpb3oGMQhTShE1klzsvPcBrkRpk7X7C8C9Sywzddv2Os9ClIS63HTapvWZKHH+Y\nJne82NdWgDwR3fqamWkxcY0I+8+rwSwLO/bhQaDJV5O2JAlsts4/ih1LjdZGWi9b\n6NCVBgLp7x9ww5WOGZe46Y+/TY0yGZGY6h2feR+WewKBgQDCCfRctavWv206RReH\nDzAz4dN/04E9tAXOq9aS7T2QWuIUzBTw4RC5+3acevfZAdYF5lt6igaFjKrr5aMM\nTGgM0/3uTBw8hMh3yIiQWNO/QvvKawkFKgsZSCoRmzBIuDGFGihXiUfsKO/wljfq\nd2Zkr+yVxKNajOzP+tn9ANYw9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "galaxy-wings-1506591701684@appspot.gserviceaccount.com",
+  "client_id": "100138580679668702419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/galaxy-wings-1506591701684%40appspot.gserviceaccount.com"
+}
